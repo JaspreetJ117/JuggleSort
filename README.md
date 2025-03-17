@@ -32,7 +32,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Name:** Jaspreet Jawanda
 - **Email:** [jawa3252@mylaurier.ca](mailto:jawa3252@mylaurier.ca), [Jaspreet4444@outlook.com](mailto:Jaspreet4444@outlook.com)
 - **GitHub:** [sayanwala4](https://github.com/sayanwala4)
-- **LinkedIn:** [jaspreet singh jawanda](https://www.linkedin.com/in/jaspreet-jawanda-559119308/)
+- **LinkedIn:** [jaspreet singh jawanda](https://www.linkedin.com/in/jaspreet-jawanda/)
+- **Website:** [JJawanda.me](https://www.jjawanda.me/)
 
 ## Contact
 For further information or inquiries, please reach out to the author via the provided email addresses.
