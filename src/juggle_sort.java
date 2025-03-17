@@ -25,7 +25,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class JuggleSort {
+public class juggle_sort {
 
     // Finds the minimum value in a list
     public static int findMin(List<Integer> lst) {
