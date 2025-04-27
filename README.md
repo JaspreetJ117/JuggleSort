@@ -4,7 +4,7 @@
 Juggle Sort is a custom sorting algorithm created as part of a class project. It was developed while the professor was teaching Merge Sort. Despite being an attempt to contribute something unique to the study of Data Structures and Algorithms, the algorithm didn't bring any "aura" or special recognition (though the effort was appreciated). It’s a simple yet inefficient sorting technique that can be improved with further optimization.
 
 ## Algorithm Description
-The Juggle Sort algorithm works by finding the minimum and maximum elements in the list, removing them, and adding them to a new sorted list. These elements are then removed from the original list. This process repeats, effectively "juggling" the minimum and maximum elements back and forth until the entire list is sorted.
+The Juggle Sort algorithm works by finding the minimum and maximum elements in the list, removing them, and adding them to a new sorted list. These elements are then removed from the original list. This process repeats, effectively "juggling" the minimum and maximum elements back and forth until the entire list is sorted
 
 However, this approach is currently inefficient because it relies on repeatedly removing elements from the list, which can be costly. There’s room for improvement by using a single list and avoiding the use of the `remove` function, which would enhance the algorithm's performance.
 
