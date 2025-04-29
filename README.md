@@ -39,5 +39,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 For further information or inquiries, please reach out to the author via the provided email addresses.
 
 ## Visualization 
-![Project Logo](src/image.jpg)
+![Project Logo](src/image.PNG)
 
