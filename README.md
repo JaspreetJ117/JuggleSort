@@ -30,8 +30,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Author
 - **Name:** Jaspreet Jawanda
-- **Email:** [jawa3252@mylaurier.ca](mailto:jawa3252@mylaurier.ca), [Jaspreet4444@outlook.com](mailto:Jaspreet4444@outlook.com)
-- **GitHub:** [sayanwala4](https://github.com/sayanwala4)
+- **Email:** [jaspreetjawanda@proton.me](mailto:jaspreetjawanda@proton.me)
+- **GitHub:** [JaspreetJ117](https://github.com/JaspretJ117)
 - **LinkedIn:** [jaspreet singh jawanda](https://www.linkedin.com/in/jaspreet-jawanda/)
 - **Website:** [JJawanda.me](https://www.jjawanda.me/)
 
@@ -40,4 +40,5 @@ For further information or inquiries, please reach out to the author via the pro
 
 ## Visualization 
 ![Project Logo](src/image.PNG)
+
 
