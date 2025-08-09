@@ -32,7 +32,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Name:** Jaspreet Jawanda
 - **Email:** [jaspreetjawanda@proton.me](mailto:jaspreetjawanda@proton.me)
 - **GitHub:** [JaspreetJ117](https://github.com/JaspretJ117)
-- **LinkedIn:** [jaspreet singh jawanda](https://www.linkedin.com/in/jaspreet-jawanda/)
+- **LinkedIn:** [jaspreet singh jawanda](https://www.linkedin.com/in/jaspreetj117)
 - **Website:** [JJawanda.me](https://www.jjawanda.me/)
 
 ## Contact
@@ -40,5 +40,6 @@ For further information or inquiries, please reach out to the author via the pro
 
 ## Visualization 
 ![Project Logo](src/image.PNG)
+
 
 
